@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as np
 import pickle
 import time
-import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Heart Health AI", layout="wide")
 
@@ -53,17 +52,6 @@ sex = 1 if sex == "Male" else 0
 fbs = 1 if fbs == "Yes" else 0
 exang = 1 if exang == "Yes" else 0
 
-# ---------- FEATURE IMPORTANCE ----------
-st.markdown("### 📊 Feature Importance")
-
-try:
-    importance = model.coef_[0]
-    fig, ax = plt.subplots()
-    ax.bar(range(len(importance)), importance)
-    ax.set_title("Feature Importance")
-    st.pyplot(fig)
-except:
-    st.write("Feature importance not available for this model")
 
 # ---------- PREDICTION ----------
 if st.button("🔍 Predict Now"):
