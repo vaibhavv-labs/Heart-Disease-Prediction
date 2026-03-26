@@ -14,13 +14,18 @@
 
 ## 🚀 Projects
 
+## 🚀 Projects
+
 ### ❤️ Heart Disease Prediction System
 - ML model to predict heart disease using patient data
 - Built with Python, Pandas, NumPy & Scikit-learn
-- Includes data preprocessing + real-time prediction UI
+- Includes data preprocessing + real-time prediction UI  
 
-🔗 **Project Link:**  
-https://github.com/vaibhav9700/Heart-Disease-Prediction
+🔗 GitHub Repo:  
+https://github.com/vaibhav9700/Heart-Disease-Prediction  
+
+🌐 Live Demo:  
+https://heart-disease-prediction-vaibhav.streamlit.app
 
 ---
 
