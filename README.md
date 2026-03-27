@@ -5,14 +5,13 @@
 ---
 
 ## 🔥 About Me
-- 🎯 Goal: Become a top AI Engineer (50 LPA+)
+- 🎯 Goal: Become an AI Engineer 
 - 💻 Currently building Machine Learning projects
 - 📚 Learning: Machine Learning, Data Science, Python
 - 🤝 Open to collaborate on ML projects
 
 ---
 
-## 🚀 Projects
 
 ## 🚀 Projects
 
