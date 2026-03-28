@@ -1,50 +1,41 @@
-# Hi 👋, I'm Vaibhav
+# ❤️ Heart Disease Prediction System
 
-### 🚀 AI & Data Science Student | Future ML Engineer
-
----
-
-## 🔥 About Me
-- 🎯 Goal: Become an AI Engineer 
-- 💻 Currently building Machine Learning projects
-- 📚 Learning: Machine Learning, Data Science, Python
-- 🤝 Open to collaborate on ML projects
+## 📌 Project Overview
+This project predicts the likelihood of heart disease using Machine Learning based on patient medical data.
 
 ---
 
-## 🚀 Projects
+## 🎯 Objectives
+- Predict heart disease risk
+- Build interactive UI using Streamlit
 
-### ❤️ Heart Disease Prediction System
-- ML model to predict heart disease using patient data
-- Built with Python, Pandas, NumPy & Scikit-learn
-- Includes data preprocessing + real-time prediction UI  
+---
 
-🔗 GitHub Repo:  
-https://github.com/vaibhavv-labs/Heart-Disease-Prediction  
+## ⚙️ Features
+- Real-time prediction
+- Confidence score
+- Risk indication (High / Low)
 
-🌐 Live Demo:  
+---
+
+## 🧠 Tech Stack
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
+
+---
+
+## 🚀 Live Demo
 https://heart-disease-prediction-vaibhav.streamlit.app
 
 ---
 
-## 🛠 Skills
-- Python 🐍
-- Pandas 📊
-- NumPy 🔢
-- Scikit-learn 🤖
-- Git & GitHub 🌐
+## ▶️ How to Run
 
----
-
-## 📊 GitHub Stats
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavv-labs&show_icons=true&theme=radical)
-
----
-
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=vaibhavv-labs&theme=radical)
-
----
-
-## 📫 How to reach me
-- Email: vaibhavbhoyate976@gmail.com
+```bash
+git clone https://github.com/vaibhavv-labs/Heart-Disease-Prediction
+cd Heart-Disease-Prediction
+pip install -r requirements.txt
+streamlit run app.py
