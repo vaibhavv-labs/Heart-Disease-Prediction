@@ -115,4 +115,4 @@ if st.button("🔍 Predict Now"):
 # ---------- FOOTER ----------
 st.markdown("---")
 st.caption("Built by Vaibhav Bhoyate | AI & Data Science Project")
-st.markdown("🔗 [View Source Code](https://github.com/vaibhav9700)")
+st.markdown("🔗 [View Source Code](https://github.com/vaibhavv-labs/Heart-Disease-Prediction)")
