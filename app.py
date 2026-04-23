@@ -438,7 +438,7 @@ st.markdown("""
   <div class="hero-title">Heart Disease<br><span>Prediction</span> System</div>
   <div class="hero-sub">UCI Heart Disease Dataset · Random Forest Classifier · Real-time Risk Analysis</div>
   <div class="hero-stats">
-    <div class="hstat"><div class="hstat-num">92%</div><div class="hstat-lbl">Accuracy</div></div>
+    <div class="hstat"><div class="hstat-num">93%</div><div class="hstat-lbl">Accuracy</div></div>
     <div class="hstat"><div class="hstat-num">303</div><div class="hstat-lbl">Training Samples</div></div>
     <div class="hstat"><div class="hstat-num">13</div><div class="hstat-lbl">Input Features</div></div>
     <div class="hstat"><div class="hstat-num">UCI</div><div class="hstat-lbl">Dataset</div></div>
